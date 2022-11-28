@@ -8,11 +8,8 @@
 static char *font = "monospace:size=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "Font Awesome 5 Free Regular:size=10:style=Regular",
-    "Font Awesome 5 Brands:size=10:style=Regular"
-    "Font Awesome 5 Solid:size=10:style=Regular"
     "Font Awesome 6 Free Regular:size=10:style=Regular",
-    "Font Awesome 6 Brands:size=10:style=Regular"
+    "Font Awesome 6 Brands:size=10:style=Regular",
     "Font Awesome 6 Solid:size=10:style=Regular"
 };
 
