@@ -1,5 +1,5 @@
 *.o
 *.rej
 *.orig
-dwm
+st
 patches/
